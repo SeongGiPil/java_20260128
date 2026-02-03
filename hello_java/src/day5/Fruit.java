@@ -41,7 +41,7 @@ public class Fruit {
 		}else {
 			this.Price=price;
 	}
-		public int getPrice() {
+		int getPrice() {
 			return this.price;
 		}
 	
