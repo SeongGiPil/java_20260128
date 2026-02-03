@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	//랜덤한숫자 10개를 arr배열에 넣기
 	//*랜덤숫자의 범위는 1~20
 	//*홀수와 짝수의 개수는 무조건 5개씩
+	
 	Random ran=new Random();
 	int oddcnt=0;
 	int evencnt=0;
