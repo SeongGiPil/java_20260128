@@ -9,7 +9,7 @@ public class Java5_오버라이딩 {
 		Cat cat=new Cat("냐옹이",5);
 		cat.speak();
 		
-		Dog d
+
 
 	}
 
