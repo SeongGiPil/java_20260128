@@ -49,9 +49,9 @@ public class Java6_퀴즈 {
 			int minIndax=j;
 		for(int i=j+1;i<arr.length;i++) {
 			
-			if(Math.abs(arr[minIndax])>Math.abs(arr[minIndex]>arr[i])) {
+			if(Math.abs(arr[minIndax])>Math.abs(arr[i])) {
 				minIndex=i;
-				System.out.println(j+1);
+			
 			}
 		}
 		int temp=arr[j];

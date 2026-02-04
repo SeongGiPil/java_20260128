@@ -1,6 +1,8 @@
-package day5;
+package day6_ClassEX;
 
-public class Student {
+import day5.Human;
+
+public class Student extends Human{
 	//클래스 복습 예제
 	//변수(필드)+메소드
 	

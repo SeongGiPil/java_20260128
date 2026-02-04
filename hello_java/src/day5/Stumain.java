@@ -17,8 +17,7 @@ public class Stumain {
 		kim.money=50000;
 		Student.money_708=Student.money_708-30000;
 		System.out.println(Student.money_708);
-	String stuno=kim.getstuno();
-	System.out.println(stuno);
+	
 		 
 	}
 
