@@ -21,7 +21,7 @@ public class Car_Test{
 	void carInfo(){
 		System.out.println("자동차의 이름은"+this.name+"색상은"+this.color+"입니다");
 	}
-	void speedUup(int speed) {
+	void speedUp(int speed) {
 	this.speed+=speed;
 	if(this.speed>200) {
 		System.out.println(" 200 이상의 속도는 불가합니다. 200으로 변경됩니다.");
