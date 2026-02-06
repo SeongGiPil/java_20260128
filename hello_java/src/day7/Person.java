@@ -19,7 +19,7 @@ Person(String name,int age,String phone){
 public String toString() {
 	// TODO Auto-generated method stub
 	return super.toString();
-	return this.name+"의 나이는"+this.age+"살입니다";
+//	return this.name+"의 나이는"+this.age+"살입니다";
 }
 
 public String getName() {
