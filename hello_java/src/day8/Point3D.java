@@ -1,4 +1,4 @@
-package java8;
+package day8;
 
 public class Point3D extends Point {
 	private int x;

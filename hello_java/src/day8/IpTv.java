@@ -1,4 +1,4 @@
-package java8;
+package day8;
 
 public class IpTv extends ColorTv {
 	String ip;

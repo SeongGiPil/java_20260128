@@ -1,4 +1,4 @@
-package java8;
+package day8;
 
 public class Java4_escape문자 {
 	public static void main(String[] args) {

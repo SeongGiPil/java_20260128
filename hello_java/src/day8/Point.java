@@ -1,4 +1,4 @@
-package java8;
+package day8;
 
 public class Point {
 	 private int x, y;

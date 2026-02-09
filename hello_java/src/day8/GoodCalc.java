@@ -1,4 +1,4 @@
-package java8;
+package day8;
 
 public class GoodCalc implements Calculator {
 	public static void main(String[] args) {
