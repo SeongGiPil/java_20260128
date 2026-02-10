@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Jay4_ListMap {
+public class Java4_ListMap {
 public static void main(String[] args) {
 	//3명의 사람 정보를 입력받은후 리스트안에 저장
 	//이름,나이,자바점수,html점수
