@@ -1,4 +1,4 @@
-package Java13;
+package day13;
 
 public class Message {
 	static final String successMsg = "성공했습니다.";

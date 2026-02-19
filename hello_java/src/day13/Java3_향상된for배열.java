@@ -1,4 +1,4 @@
-package Java13;
+package day13;
 
 public class Java3_향상된for배열 {
 	public static void main(String[] args) {

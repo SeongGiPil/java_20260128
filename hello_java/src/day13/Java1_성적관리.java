@@ -1,4 +1,4 @@
-package Java13;
+package day13;
 
 import java.sql.ResultSet;
 import java.sql.Statement;

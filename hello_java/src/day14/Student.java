@@ -1,0 +1,11 @@
+package day14;
+
+public class Student extends Person {
+	private int stuNo;
+	
+	Student(String name,String addr,int stuNo){
+	
+		super(name,addr);
+		this.stuNo=stuNo;
+	}
+}
