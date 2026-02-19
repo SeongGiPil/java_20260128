@@ -12,6 +12,11 @@ public class Java6_복습_클래스 {
 		Person p3=new Person("김철수","인천");//이름:김철수,주소:인천
 		System.out.println(p3.toString());
 		
-		Student s=new Student("박영희","서울","1234")
+		Student s=new Student("박영희","서울",1234);
+		test(s);
+		System.out.println(s);
+		
+		Person s2=new Student("유재석","제주도",9876);
+		
 }
 }
