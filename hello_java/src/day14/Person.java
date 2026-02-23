@@ -3,6 +3,7 @@ package day14;
 public class Person {
 	private String name;
 	private String addr;
+	
 	Person() {
 	this("알수없음");
 	}

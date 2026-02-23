@@ -11,7 +11,7 @@ public class Java09_DB {
 	
 	public static void searchStudent(Statement stmt) {
 		try {
-			String sql="SELECT * 
+			String sql="SELECT * FROM TBL_STUDENT"; 
 			ResultSet rs=stmt.executeQuery(sql);
 			while(rs.next()) {
 			System.out.println("학번:"+rs.getString("STU_NO")+",");
@@ -31,7 +31,7 @@ public class Java09_DB {
 			System.out.println("학번:");
 			stuNo=s.next();
 			String Sql= "SELECT * FROM TBL_STUDENT WHERE STU_NO = '" + stuNo + "'";
-			ResultSet rs=stmt.execute(Sql);
+			ResultSet rs=stmt.executeQuery(Sql);
 			if(rs.next()) {
 				System.out.println("이미 사용중인학번");
 				
